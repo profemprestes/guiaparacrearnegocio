@@ -1,4 +1,5 @@
 # Guía para Crear Negocio
+![Logo_Mapre](https://github.com/user-attachments/assets/799e8bbe-5899-4f24-812d-bf83f8bd7482)
 
 Bienvenido/a al repositorio **Guía para Crear Negocio**. Este proyecto tiene como objetivo ofrecer recursos, guías y herramientas para ayudar a emprendedores a iniciar y gestionar su propio negocio de manera efectiva.
 
@@ -43,6 +44,7 @@ Este repositorio contiene materiales organizados y prácticos para quienes busca
    git clone https://github.com/profemprestes/guiaparacrearnegocio.git
    ```
 2. Navega al directorio:
+
    ```bash
    cd guiaparacrearnegocio
    ```
